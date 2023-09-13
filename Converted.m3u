@@ -1,179 +1,355 @@
-group,Channels
-Tvbrasil.br,TV BRASIL HD,http://168.205.87.198:8555/live/1052/123456/141.m3u8
-Tvbrasil.br,TV BRASIL SD,https://cdn.jmvstream.com/w/AVJ-12952/playlist/chunklist.m3u8
-ext,TV BRASIL 2¹,http://milka99.xyz:80/069593498368/314545785775/64197
-Tvcultura.br,TV CULTURA,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,CULTURA SP HD,https://d1pin3134ri4ue.cloudfront.net/out/v1/7d782712e13148bf966beda0ac08bbe2/index.mpd
-ext,TV CULTURA - TV FUTURO (RJ),https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-Sbt.br,SBT,http://162.251.62.114:80/6gpyy8e6/5ci36alv/119052
-ext,SBT (REDE MASSA PR),https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w173186254.m3u8
-Globosp.br,GLOBO SP,http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/506
-Globosp.br,GLOBO SP HD,http://superblazertop.com.br.global.prod.fastly.net/live/globo/play2.m3u8?ManoTV
-Globosp.br,GLOBO SP HD,http://212.102.60.39:2200/BRX/Globo_SP_HDPLUS/tracks-v1a1/mono.m3u8
-GloboEPTVRibeiraoPreto.br,GLOBO EPTV RIBEIRAO PRETO,http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/1011
-Rederecord.br,RECORD,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/523
-Recordnews.br,RECORD NEWS,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/452
-Rederecord.br,RECORD RJ,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/527
-ext,RECORD RJ HD,http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/527
-Redetv.br,REDETV!,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,REDETV! HD,https://multicanais.vc/sportv-online-hd-gratis-aovivo.m3u8
-TVGazeta.br,TV GAZETA HD,https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
-TVGazeta.br,TV GAZETA HD,http://playfacil.net:80/76399979/27368967/61952
-ext,BAND SP HD,http://superblazertop.com.br.global.prod.fastly.net:80/live/band/play1.m3u8
-Bandsports.br,BAND SPORTS HD,http://tv.deflextelecom.com.br:8880/live/jean123/jean123/539.m3u8
-Gnt.br,GNT,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/108
-ext,IGN,https://i.mjh.nz/PlutoTV/5f1ac118dd7e6000077e31af-alt.m3u8
-ext,OTAKU SIGN TV,https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
-Viva.br,VIVA,http://superblazertop.com.br.global.prod.fastly.net/live/viva/play2.m3u8?ManoTV
-ext,VIVA SD²,http://7go.xyz:8080/zogbi11/982451290/22421
-Futura.br,FUTURA,http://168.205.87.198:8555/live/1057/123456/67.ts
-ext,CANAL FUTURA HD¹,http://milka99.xyz:80/069593498368/314545785775/6865
-ext,24HS FUTURAMA³,http://milka99.xyz:80/097543511553/726840449033/73413
-Hbo.br,HBO,http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo/play2.m3u8?ManoTV
-Hbo2.br,HBO 2,http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo2/play2.m3u8?ManoTV
-Hboplus.br,HBO PLUS HD,http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/361
-ext,HBO MAX CHAMPIONS LEAGUE 5 HD,http://7go.xyz:8080/Ademilson41/299548/59964
-ext,HBO MAX CHAMPIONS LEAGUE 1,http://meumd.com:80/beneditojp/goiptv2021/143794
-ext,HBO MAX 01³,http://milka99.xyz:80/069593498368/314545785775/87946
-ext,HBO MAX 4 HD,http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/835
-Disneychannel.br,DISNEY CHANNEL,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/352
-ext,DISNEY LIVE ACTION,http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2090939
-ext,DISNEY CLASSICO 01 HD,http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/258
-Disneyjrhd.br,DISNEY JR FHD,http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154083
-ext,BRASIL | DISNEY CHANNEL  HD,http://castlempire.site:8080/UserTest5Octubre_00z/p3QcBkFxLzkZ/190027
-Gloob.br,GLOOB HD,http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/265
-ext,GLOOBINHO HD,http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/267
-ext,BRASIL | GLOOB  HD,http://castlempire.site:8080/UserTest2Brasil_00x/F82gA72YLEFn/189976
-ext,GLOOB HD¹,http://milka99.xyz:80/069593498368/314545785775/6911
-NickJr.br,NICK JR,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-Nickelodeon.br,NICKELODEON HD,http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/273
-Nickelodeon.br,NICKELODEON,http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
-ext,NICK CLÁSSICO,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
-NickJr.br,NICK JR HD,http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/271
-Sportv.br,SPORTV HD,http://superblazertop.com.br.global.prod.fastly.net/live2/sportv/play2.m3u8?ManoTV
-Sportv.br,SPORTV,http://209.222.97.92:16525/
-Sportv2.br,SPORTV 2,http://superblazertop.com.br.global.prod.fastly.net/live2/sportv2/play2.m3u8?ManoTV
-Sportv2.br,SPORTV 2 HD,http://mn.appserv19.xyz:2095/Xplus-1-GZg0684Mrm/EwqcKKSQ5x/173
-Sportv3.br,SPORTV 3,http://superblazertop.com.br.global.prod.fastly.net/live2/sportv3/play2.m3u8?ManoTV
-Sportv3.br,SPORTV 3 HD,http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS6810505767/2937648596/398
-Tnt.br,TNT,https://cdn-1.nxplay.com.br/TNT_TK/tracks-v1a1/mono.m3u8
-TNTSerie.br,TNT SERIES,http://superblazertop.com.br.global.prod.fastly.net:80/live/tntseries/play2.m3u8?ManoTV
-ext,TNT SPORTS 2 ᴴᴰ,http://absolutdns.dynu.com:16161/RimiSeliteKomshiuRimit53838teieieiwyiro/Yeuei5373737teyeuu7373777rty/1353
-ext,TNT SPORTS 3 ᴴᴰ,http://absolutdns.dynu.com:16161/RimiSeliteKomshiuRimit53838teieieiwyiro/Yeuei5373737teyeuu7373777rty/5219
-Tnt.br,TNT HD,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/1004
-ext,CAZE TV,http://mn.appserv19.xyz:2095/Xplus-1-BTAxFjkHP8/1ZhppGkSCX/1149
-Megapix.br,MEGAPIX HD,http://tv.deflextelecom.com.br:8880/live/jean123/jean123/66.m3u8
-Megapix.br,MEGAPIX,http://superblazertop.com.br.global.prod.fastly.net/live/megapix/play2.m3u8?ManoTV
-ext,AGROMAIS HD¹,http://milka99.xyz:80/069593498368/314545785775/39452
-ext,AGRO CANAL,http://168.205.87.198:8555/live/1057/123456/10.ts
-ext,AGRO BRASIL HD,https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w546533828.m3u8
-Discovery.br,DISCOVERY CHANNEL HD,http://superblazertop.com.br.global.prod.fastly.net/live/discoverychannel/play2.m3u8?ManoTV
-Discturbohd.br,DISCOVERY TURBO,http://superblazertop.com.br.global.prod.fastly.net/live/discoveryturbo/play2.m3u8?ManoTV
-Discoverykids.br,DISCOVERY KIDS,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/348
-ext,DISCOVERY H&H HDR+,http://mn.appserv19.xyz:2095/Xplus-1-BTAxFjkHP8/1ZhppGkSCX/1021
-ext,BRASIL | DISCOVERY HOME & HEAL...,http://castlempire.site:8080/UserTest5Octubre_00z/p3QcBkFxLzkZ/190020
-ext,BRASIL | DISCOVERY SCIENCE  HD,http://castlempire.site:8080/UserTest2Octubre_00z/bqCs7jw4KQJa/190022
-Historychannel.br,HISTORY HD,http://superblazertop.com.br.global.prod.fastly.net/live/history/play2.m3u8?ManoTV
-Historyplus1.uk,HISTORY  1,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/82
-H2.uk,HISTORY 2 HD,http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
-ext,GOSPEL CARTOON,https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w957045468.m3u8
-Gospel.br,GOSPEL,http://stream.vagalume.fm/hls/14658544132100453351.m3u8
-ext,GOSPEL MOVIES,https://stmv1.srvif.com/gospelf/gospelf/chunklist_w119828756.m3u8
-RockTV.it,ROCK TV,https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
-ext,STINGRAY ROCK ALTERNATIVE,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-Mtv.br,MTV HD,http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
-Mtv.br,MTV,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/112
-TopTV.svn,TOP TV,https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-ext,TOP MIX TV,https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
-Tcpipoca.br,TELECINE PIPOCA HD,http://superblazertop.com.br.global.prod.fastly.net/live/telecinepipoca/play2.m3u8?ManoTV
-Tcpremium.br,TELECINE PREMIUM,http://superblazertop.com.br.global.prod.fastly.net/live/telecinepremium/play2.m3u8?ManoTV
-Tcaction.br,TELECINE ACTION HD,http://superblazertop.com.br.global.prod.fastly.net/live/telecineaction/play2.m3u8?ManoTV
-Tcfun.br,TELECINE FUN,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/300
-ext,TV CLÁSSICOS NOVELAS E FILMES,https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1074168083.m3u8
-ext,SONY NOVELAS,http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1307
-ext,PLUTO TV TELENOVELAS (720P),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=fals
-ext,TOKUSATO,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
-ext,TOKUSATO | PLUTO TV BRASIL,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-ext,ANIMES TV,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
-ext,TV ANIMES AÇÃO,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,TVI REALITY HD,https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-ext,REALITY SHOW,https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-02cc636b-90e2-430e-9e26-7eca3279b77c&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
-ext,PLUTO TV WESTERN,https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
-ext,JOVEM PAN PLUTO TV,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,PLUTO TV CINE COMÉDIA,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,PLUTO TV CINE SUCESSOS,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,PLUTO TV ANIME,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,DRAGON BALL Z,http://castlempire.site:8080/UserTest1Octubre_00c/fTQHy3hQDtjs/267983
-ext,DRAGON BALL SUPER,http://castlempire.site:8080/UserTest2Octubre_00c/bqCs7jw4KQJa/169424
-ext,24HS NARUTO UZUMAKI³,http://milka99.xyz:80/097543511553/726840449033/73422
-ext,NARUTO HD,http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/736
-ext,DESENHOS CLÁSSICOS,https://stmv1.srvif.com/retrotv/retrotv/chunklist_w898355682.m3u8
-ext,RETRO CARTOON (DESENHOS ANTIGO...,https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-ext,DESENHOS BÍBLICOS 24 HORA,https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-ext,AMAZON ESPORTES 1,http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/784
-ext,AMAZON ESPORTES 1,http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/784
-ext,TODOS OS ESPORTES | BRASIL,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-Foxsports.br,FOX SPORTS,http://bgtv.site/play/23-866.php?a=42&token=uouiouio
-Foxsports2.br,FOX SPORTS 2 HD,http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/342
-Fox.br,FOX,http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/69
-Foxsports.br,FOX SPORTS HD,http://playfacil.net:80/76399979/27368967/61777
-ext,SONY NOVELA,https://spt-novelas-1-us.vizio.wurl.tv/4300.m3u8
-ext,BRASIL | SONY  HD,http://castlempire.site:8080/UserTest1Brasil_00z/6KneMfnELkrN/189956
-ext,SONY MOVIES HD³,http://milka99.xyz:80/069593498368/314545785775/87938
-Sony.br,SONY CHANNEL HD,http://testo.app-host11.xyz:2095/Touroubox2-QRS5070625788/8276376049/393
-Animalplanet.br,ANIMAL PLANET HD,http://superblazertop.com.br.global.prod.fastly.net/live/animalplanet/play2.m3u8?ManoTV
-Animalplanet.br,ANIMAL PLANET,http://167.114.156.136:25461/INFINITV/ZX89NM22/75
-Cartoonnetwork.br,CARTOON NETWORK HD,https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ManoTV
-Cartoonito.uk,CARTOONITO,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/345
-Cartoonito.it,CARTOONITO HD,http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/281
-Cartoonnetwork.br,CARTOON NETWORK,http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/35
-ext,REDE VIDA HD,https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-ext,REDE VIDA HD²,http://7go.xyz:8080/quinho93018/quin3571/22384
-ext,TASTEMADE | SAMSUNG BRASIL,https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-ext,TASTEMADE | PLUTO TV BRASIL,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-ext,JOVEM PAN NEWS HD,http://tv.deflextelecom.com.br:8880/live/jean123/jean123/1130.m3u8
-Jovempanfm.br,JOVEM PAN FM,https://top80.com.br:9000/stream
-ext,JOVEM PAN TV,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-ext,TELEVISA,https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
-ext,TELEVISA | MÉXICO,http://linear-317.frequency.stream/317/hls/master/playlist.m3u8
-Gospel.br,REDE GOSPEL,https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?PEDROJUNIORTUTORIAIS
-ext,GOSPEL VARIADOS 🛐,https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/chunklist_w502943221.m3u8
-ext,REDE GOSPEL HD,https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-Sbt.br,SBT HD,http://tv.deflextelecom.com.br:8880/live/jean123/jean123/357.m3u8
-ext,SBT SP HD,http://cdnrede.com:80/1tpx402m/7FnPjJF/4971
-ext,RECORD SP HD,http://45.58.126.146:14153
-ext,UFC PPV,http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS5795146225/7717976712/758
-ext,UFC FIGHTPASS,http://superblazertop.com.br.global.prod.fastly.net/live2/fightpass/play2.m3u8?ManoTV
-ext,UFC FIGHT PASS,http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/759
-Paramounthd.br,PARAMOUNT HD,http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS5795146225/7717976712/375
-Paramounthd.br,PARAMOUNT,http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
-Axn.br,AXN,https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
-Axn.br,AXN HD,http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/304
-Amc.br,AMC HD,http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/301
-Amc.br,AMC,http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8845
-Cinebrasiltv.br,CINEBRASIL TV,https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
-ext,REDE BRASIL HD,https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8
-Redebrasil.br,REDE BRASIL,https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?ManoTV
-Off.br,OFF HD,http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/546
-ext,SÉPTIMO ARTE,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eedd60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05e50493-989d-41b8-b7ad-f17f965c8f4a&userId=&serverSideAds=true
-ext,EUROSPORT 1 HD PT UHD,http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS6810505767/2937648596/668
-canalpanda.pt,CANAL PANDA PT,http://mn.appserv19.xyz:2095/Xplus-1-BTAxFjkHP8/1ZhppGkSCX/887
-ext,SKY SPORTS F1 PT UHD,http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS6810505767/2937648596/660
-ext,SPORTING PT UHD,http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/653
-ext,NICK JR PT UHD,http://testo.app-host11.xyz:2095/Touroubox2-QRS5070625788/8276376049/663
-ext,MOTOR VISION PT UHD,http://testo.app-host11.xyz:2095/Touroubox2-QRS5070625788/8276376049/664
-PandaBiggs.pt,PANDA BIGGS PT,http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/661
-ext,DISCOVERY CHANNEL PT UHD,http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/673
-ext,CARTOON NETWORK PT UHD,http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/674
-ext,NICKELODEON PT UHD,http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/662
-ext,TV PORTUGAL SIC,https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-Globorj.br,GLOBO RJ,http://162.251.62.114:80/6gpyy8e6/5ci36alv/25910
-Globonews.br,GLOBO NEWS,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/498
-Globonewshd.br,GLOBO NEWS HD,http://tv.deflextelecom.com.br:8880/live/jean123/jean123/209.m3u8
-ext,TNT NOVELAS,http://cdn.contentgftp.xyz:80/play/W6lgOci4gCUDFia888ODoanTZr1htdPwuUgkTfUOIPQ
-TVI.pt,TVI PT,http://ptx-abc.xyz:8080/AndreTorres@11/wJ3tJvHAdAzt/64906
-ext,PRIME-MUSIC CLASSICS,http://168.205.87.198:8555/live/1113/123456/231.ts
-Multishow.br,MULTISHOW HD,http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/423
-Multishow.br,MULTISHOW HD,http://playfacil.net:80/76399979/27368967/62058
-ext,MULTISHOW UHD,http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/372
-
+#EXTM3U
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="Channels",TV BRASIL HD
+http://168.205.87.198:8555/live/1052/123456/141.m3u8
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="Channels",TV BRASIL SD
+https://cdn.jmvstream.com/w/AVJ-12952/playlist/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV BRASIL 2¹
+http://milka99.xyz:80/069593498368/314545785775/64197
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="Channels",TV CULTURA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULTURA SP HD
+https://d1pin3134ri4ue.cloudfront.net/out/v1/7d782712e13148bf966beda0ac08bbe2/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV CULTURA - TV FUTURO (RJ)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT
+http://162.251.62.114:80/6gpyy8e6/5ci36alv/119052
+#EXTINF:0 tvg-id="ext" group-title="Channels",SBT (REDE MASSA PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w173186254.m3u8
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",GLOBO SP
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/506
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",GLOBO SP HD
+http://superblazertop.com.br.global.prod.fastly.net/live/globo/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",GLOBO SP HD
+http://212.102.60.39:2200/BRX/Globo_SP_HDPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="GloboEPTVRibeiraoPreto.br" group-title="Channels",GLOBO EPTV RIBEIRAO PRETO
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/1011
+#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/523
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",RECORD NEWS
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/452
+#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD RJ
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/527
+#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD RJ HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/527
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",REDETV!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDETV! HD
+https://multicanais.vc/sportv-online-hd-gratis-aovivo.m3u8
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="Channels",TV GAZETA HD
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="Channels",TV GAZETA HD
+http://playfacil.net:80/76399979/27368967/61952
+#EXTINF:0 tvg-id="ext" group-title="Channels",BAND SP HD
+http://superblazertop.com.br.global.prod.fastly.net:80/live/band/play1.m3u8
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BAND SPORTS HD
+http://tv.deflextelecom.com.br:8880/live/jean123/jean123/539.m3u8
+#EXTINF:0 tvg-id="Gnt.br" group-title="Channels",GNT
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/108
+#EXTINF:0 tvg-id="ext" group-title="Channels",IGN
+https://i.mjh.nz/PlutoTV/5f1ac118dd7e6000077e31af-alt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OTAKU SIGN TV
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
+#EXTINF:0 tvg-id="Viva.br" group-title="Channels",VIVA
+http://superblazertop.com.br.global.prod.fastly.net/live/viva/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIVA SD²
+http://7go.xyz:8080/zogbi11/982451290/22421
+#EXTINF:0 tvg-id="Futura.br" group-title="Channels",FUTURA
+http://168.205.87.198:8555/live/1057/123456/67.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL FUTURA HD¹
+http://milka99.xyz:80/069593498368/314545785775/6865
+#EXTINF:0 tvg-id="ext" group-title="Channels",24HS FUTURAMA³
+http://milka99.xyz:80/097543511553/726840449033/73413
+#EXTINF:0 tvg-id="Hbo.br" group-title="Channels",HBO
+http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",HBO 2
+http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo2/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO PLUS HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/361
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MAX CHAMPIONS LEAGUE 5 HD
+http://7go.xyz:8080/Ademilson41/299548/59964
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MAX CHAMPIONS LEAGUE 1
+http://meumd.com:80/beneditojp/goiptv2021/143794
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MAX 01³
+http://milka99.xyz:80/069593498368/314545785775/87946
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MAX 4 HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/835
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="Channels",DISNEY CHANNEL
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/352
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY LIVE ACTION
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2090939
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY CLASSICO 01 HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/258
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Channels",DISNEY JR FHD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154083
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRASIL | DISNEY CHANNEL  HD
+http://castlempire.site:8080/UserTest5Octubre_00z/p3QcBkFxLzkZ/190027
+#EXTINF:0 tvg-id="Gloob.br" group-title="Channels",GLOOB HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/265
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOOBINHO HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/267
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRASIL | GLOOB  HD
+http://castlempire.site:8080/UserTest2Brasil_00x/F82gA72YLEFn/189976
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOOB HD¹
+http://milka99.xyz:80/069593498368/314545785775/6911
+#EXTINF:0 tvg-id="NickJr.br" group-title="Channels",NICK JR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",NICKELODEON HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/273
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",NICKELODEON
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICK CLÁSSICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="NickJr.br" group-title="Channels",NICK JR HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/271
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SPORTV HD
+http://superblazertop.com.br.global.prod.fastly.net/live2/sportv/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SPORTV
+http://209.222.97.92:16525/
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SPORTV 2
+http://superblazertop.com.br.global.prod.fastly.net/live2/sportv2/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SPORTV 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-GZg0684Mrm/EwqcKKSQ5x/173
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Channels",SPORTV 3
+http://superblazertop.com.br.global.prod.fastly.net/live2/sportv3/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Channels",SPORTV 3 HD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS6810505767/2937648596/398
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT
+https://cdn-1.nxplay.com.br/TNT_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Channels",TNT SERIES
+http://superblazertop.com.br.global.prod.fastly.net:80/live/tntseries/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SPORTS 2 ᴴᴰ
+http://absolutdns.dynu.com:16161/RimiSeliteKomshiuRimit53838teieieiwyiro/Yeuei5373737teyeuu7373777rty/1353
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SPORTS 3 ᴴᴰ
+http://absolutdns.dynu.com:16161/RimiSeliteKomshiuRimit53838teieieiwyiro/Yeuei5373737teyeuu7373777rty/5219
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT HD
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/1004
+#EXTINF:0 tvg-id="ext" group-title="Channels",CAZE TV
+http://mn.appserv19.xyz:2095/Xplus-1-BTAxFjkHP8/1ZhppGkSCX/1149
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MEGAPIX HD
+http://tv.deflextelecom.com.br:8880/live/jean123/jean123/66.m3u8
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MEGAPIX
+http://superblazertop.com.br.global.prod.fastly.net/live/megapix/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",AGROMAIS HD¹
+http://milka99.xyz:80/069593498368/314545785775/39452
+#EXTINF:0 tvg-id="ext" group-title="Channels",AGRO CANAL
+http://168.205.87.198:8555/live/1057/123456/10.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AGRO BRASIL HD
+https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w546533828.m3u8
+#EXTINF:0 tvg-id="Discovery.br" group-title="Channels",DISCOVERY CHANNEL HD
+http://superblazertop.com.br.global.prod.fastly.net/live/discoverychannel/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",DISCOVERY TURBO
+http://superblazertop.com.br.global.prod.fastly.net/live/discoveryturbo/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Channels",DISCOVERY KIDS
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/348
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY H&H HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-BTAxFjkHP8/1ZhppGkSCX/1021
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRASIL | DISCOVERY HOME & HEAL...
+http://castlempire.site:8080/UserTest5Octubre_00z/p3QcBkFxLzkZ/190020
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRASIL | DISCOVERY SCIENCE  HD
+http://castlempire.site:8080/UserTest2Octubre_00z/bqCs7jw4KQJa/190022
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Channels",HISTORY HD
+http://superblazertop.com.br.global.prod.fastly.net/live/history/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Historyplus1.uk" group-title="Channels",HISTORY  1
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/82
+#EXTINF:0 tvg-id="H2.uk" group-title="Channels",HISTORY 2 HD
+http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w957045468.m3u8
+#EXTINF:0 tvg-id="Gospel.br" group-title="Channels",GOSPEL
+http://stream.vagalume.fm/hls/14658544132100453351.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOSPEL MOVIES
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w119828756.m3u8
+#EXTINF:0 tvg-id="RockTV.it" group-title="Channels",ROCK TV
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",STINGRAY ROCK ALTERNATIVE
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:0 tvg-id="Mtv.br" group-title="Channels",MTV HD
+http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
+#EXTINF:0 tvg-id="Mtv.br" group-title="Channels",MTV
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/112
+#EXTINF:0 tvg-id="TopTV.svn" group-title="Channels",TOP TV
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",TELECINE PIPOCA HD
+http://superblazertop.com.br.global.prod.fastly.net/live/telecinepipoca/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",TELECINE PREMIUM
+http://superblazertop.com.br.global.prod.fastly.net/live/telecinepremium/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",TELECINE ACTION HD
+http://superblazertop.com.br.global.prod.fastly.net/live/telecineaction/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Channels",TELECINE FUN
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/300
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV CLÁSSICOS NOVELAS E FILMES
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1074168083.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SONY NOVELAS
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1307
+#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV TELENOVELAS (720P)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=fals
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOKUSATO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOKUSATO | PLUTO TV BRASIL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMES TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV ANIMES AÇÃO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY HD
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",REALITY SHOW
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-02cc636b-90e2-430e-9e26-7eca3279b77c&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV WESTERN
+https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",JOVEM PAN PLUTO TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV CINE COMÉDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV CINE SUCESSOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV ANIME
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Channels",DRAGON BALL Z
+http://castlempire.site:8080/UserTest1Octubre_00c/fTQHy3hQDtjs/267983
+#EXTINF:0 tvg-id="ext" group-title="Channels",DRAGON BALL SUPER
+http://castlempire.site:8080/UserTest2Octubre_00c/bqCs7jw4KQJa/169424
+#EXTINF:0 tvg-id="ext" group-title="Channels",24HS NARUTO UZUMAKI³
+http://milka99.xyz:80/097543511553/726840449033/73422
+#EXTINF:0 tvg-id="ext" group-title="Channels",NARUTO HD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/736
+#EXTINF:0 tvg-id="ext" group-title="Channels",DESENHOS CLÁSSICOS
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w898355682.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RETRO CARTOON (DESENHOS ANTIGO...
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DESENHOS BÍBLICOS 24 HORA
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMAZON ESPORTES 1
+http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/784
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMAZON ESPORTES 1
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/784
+#EXTINF:0 tvg-id="ext" group-title="Channels",TODOS OS ESPORTES | BRASIL
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Channels",FOX SPORTS
+http://bgtv.site/play/23-866.php?a=42&token=uouiouio
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",FOX SPORTS 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/342
+#EXTINF:0 tvg-id="Fox.br" group-title="Channels",FOX
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/69
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Channels",FOX SPORTS HD
+http://playfacil.net:80/76399979/27368967/61777
+#EXTINF:0 tvg-id="ext" group-title="Channels",SONY NOVELA
+https://spt-novelas-1-us.vizio.wurl.tv/4300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRASIL | SONY  HD
+http://castlempire.site:8080/UserTest1Brasil_00z/6KneMfnELkrN/189956
+#EXTINF:0 tvg-id="ext" group-title="Channels",SONY MOVIES HD³
+http://milka99.xyz:80/069593498368/314545785775/87938
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",SONY CHANNEL HD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS5070625788/8276376049/393
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",ANIMAL PLANET HD
+http://superblazertop.com.br.global.prod.fastly.net/live/animalplanet/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",ANIMAL PLANET
+http://167.114.156.136:25461/INFINITV/ZX89NM22/75
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Channels",CARTOON NETWORK HD
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ManoTV
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",CARTOONITO
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/345
+#EXTINF:0 tvg-id="Cartoonito.it" group-title="Channels",CARTOONITO HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/281
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Channels",CARTOON NETWORK
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/35
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDE VIDA HD²
+http://7go.xyz:8080/quinho93018/quin3571/22384
+#EXTINF:0 tvg-id="ext" group-title="Channels",TASTEMADE | SAMSUNG BRASIL
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TASTEMADE | PLUTO TV BRASIL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0 tvg-id="ext" group-title="Channels",JOVEM PAN NEWS HD
+http://tv.deflextelecom.com.br:8880/live/jean123/jean123/1130.m3u8
+#EXTINF:0 tvg-id="Jovempanfm.br" group-title="Channels",JOVEM PAN FM
+https://top80.com.br:9000/stream
+#EXTINF:0 tvg-id="ext" group-title="Channels",JOVEM PAN TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEVISA | MÉXICO
+http://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+#EXTINF:0 tvg-id="Gospel.br" group-title="Channels",REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOSPEL VARIADOS 🛐
+https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/chunklist_w502943221.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDE GOSPEL HD
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT HD
+http://tv.deflextelecom.com.br:8880/live/jean123/jean123/357.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SBT SP HD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/4971
+#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD SP HD
+http://45.58.126.146:14153
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC PPV
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS5795146225/7717976712/758
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHTPASS
+http://superblazertop.com.br.global.prod.fastly.net/live2/fightpass/play2.m3u8?ManoTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHT PASS
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/759
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",PARAMOUNT HD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS5795146225/7717976712/375
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",PARAMOUNT
+http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
+#EXTINF:0 tvg-id="Axn.br" group-title="Channels",AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+#EXTINF:0 tvg-id="Axn.br" group-title="Channels",AXN HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/304
+#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC HD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/301
+#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8845
+#EXTINF:0 tvg-id="Cinebrasiltv.br" group-title="Channels",CINEBRASIL TV
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDE BRASIL HD
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="Channels",REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?ManoTV
+#EXTINF:0 tvg-id="Off.br" group-title="Channels",OFF HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/546
+#EXTINF:0 tvg-id="ext" group-title="Channels",SÉPTIMO ARTE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eedd60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05e50493-989d-41b8-b7ad-f17f965c8f4a&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 1 HD PT UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS6810505767/2937648596/668
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",CANAL PANDA PT
+http://mn.appserv19.xyz:2095/Xplus-1-BTAxFjkHP8/1ZhppGkSCX/887
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS F1 PT UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS6810505767/2937648596/660
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTING PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/653
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICK JR PT UHD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS5070625788/8276376049/663
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOTOR VISION PT UHD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS5070625788/8276376049/664
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PANDA BIGGS PT
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/661
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CHANNEL PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/673
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/674
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICKELODEON PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/662
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV PORTUGAL SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",GLOBO RJ
+http://162.251.62.114:80/6gpyy8e6/5ci36alv/25910
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",GLOBO NEWS
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/498
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="Channels",GLOBO NEWS HD
+http://tv.deflextelecom.com.br:8880/live/jean123/jean123/209.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT NOVELAS
+http://cdn.contentgftp.xyz:80/play/W6lgOci4gCUDFia888ODoanTZr1htdPwuUgkTfUOIPQ
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI PT
+http://ptx-abc.xyz:8080/AndreTorres@11/wJ3tJvHAdAzt/64906
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME-MUSIC CLASSICS
+http://168.205.87.198:8555/live/1113/123456/231.ts
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",MULTISHOW HD
+http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/423
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",MULTISHOW HD
+http://playfacil.net:80/76399979/27368967/62058
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISHOW UHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/372
